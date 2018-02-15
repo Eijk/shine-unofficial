@@ -26,7 +26,7 @@ First of all this is clutter-free version, all tracking was removed as well as G
 3. There should be a button saying "Load unpacked extension"
 4. Select your folder that you created and it should build the extension
 
-## Authors
+# Authors
 
 * **TheTyGoss** - *Original author*
 * **vhs** - *Original author of the fork*
