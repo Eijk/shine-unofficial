@@ -19,9 +19,17 @@ First of all this is clutter-free version, all tracking was removed as well as G
 * Basic theme support
 * Firefox version
 
+# Installation
+
+1. Download the repo and create a folder on your desktop and drag the files over
+2. In chrome, go to Tools > More tools > Extensions
+3. There should be a button saying "Load unpacked extension"
+4. Select your folder that you created and it should build the extension
+
 ## Authors
 
 * **TheTyGoss** - *Original author*
-* **vhs** - *Current maintainer*
+* **vhs** - *Original author of the fork*
+* **Eijk** - Author of this single fork
 
 See also the list of [contributors](https://github.com/voythas/shine-unofficial/contributors) who participated in this project.
